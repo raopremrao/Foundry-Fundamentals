@@ -1,6 +1,0 @@
-[submodule "Section-2/foundry-fund-me-f25/lib/chainlink-brownie-contracts"]
-	path = Section-2/foundry-fund-me-f25/lib/chainlink-brownie-contracts
-	url = https://github.com/smartcontractkit/chainlink-brownie-contracts
-[submodule "Section-2/foundry-fund-me-f25/lib/forge-std"]
-	path = Section-2/foundry-fund-me-f25/lib/forge-std
-	url = https://github.com/foundry-rs/forge-std
